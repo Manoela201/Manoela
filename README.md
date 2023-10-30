@@ -5,6 +5,6 @@ Estou fazendo a plataforma Alura no curso HTML e CSS, e nessa aula estou na unid
 pseudo-classes e combinadores que é um programa que promove estilos com interação.
 
 
-26 de outubro de 2023 eu estou na unidade 6 e comecei a assistir o video, que ela explica sobre GitHub Pages ela expica usar,
+26 de outubro de 2023 eu estou na unidade 6 e comecei a assistir o video, que ela explica sobre GitHub Pages ela expica com usar,
 e ela esplica como funciona para fazer um projeto.
 
